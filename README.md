@@ -2,9 +2,9 @@
 
 # 📌 Project Overview
 
-**The AI Job & Resume Analyzer is a Python-based data analytics project that analyzes candidates, job opportunities, skills, salaries, and application outcomes.
+**The AI Job & Resume Analyzer is a Python-based data analytics project that analyzes candidates, job opportunities, skills, salaries, and application outcomes.**
 
-The project uses Python, Pandas, NumPy, SQL, Matplotlib, and Seaborn to compare candidate skills with job requirements, calculate job-match scores, identify skill gaps, recommend suitable jobs.**
+**The project uses Python, Pandas, NumPy, SQL, Matplotlib, and Seaborn to compare candidate skills with job requirements, calculate job-match scores, identify skill gaps, recommend suitable jobs.**
 
 # 🎯 Project Objective
 
